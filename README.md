@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/200.gif" width="500" height="320" />
 
 ## ÖĞREN 👨‍🎓, GELİŞTİR 🚀, YAZ ✍ VE KAZAN👨‍🎓!
 - 🔭 MERHABA ben Burak burda takılıyoruz öyle işte
