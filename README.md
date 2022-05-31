@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://images.justwatch.com/backdrop/23198681/s640/mr-robot" width="500" height="320" />
 
-## ÖĞREN 👨‍🎓, GELİŞTİR 🚀, YAZ ✍ VE KAZAN👨‍🎓!
+##"👀Her şey hayalle başlar, 🌠onun temelinde inanç yatar."👨‍🎓, İnanırsanız başarırsınız!
 - 🔭 MERHABA ben Burak burda takılıyoruz öyle işte
 - 🌱 repolarıma bak belki işine yarıcak şeyler bulucaksın
 - 👯 senin için elimden geleni yapacağım.
